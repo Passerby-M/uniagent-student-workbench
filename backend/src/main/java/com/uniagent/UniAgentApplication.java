@@ -1,11 +1,11 @@
-package com.facultyflow;
+package com.uniagent;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FacultyFlowApplication {
+public class UniAgentApplication {
     public static void main(String[] args) {
-        SpringApplication.run(FacultyFlowApplication.class, args);
+        SpringApplication.run(UniAgentApplication.class, args);
     }
 }
